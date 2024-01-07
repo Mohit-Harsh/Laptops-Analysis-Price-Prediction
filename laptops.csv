@@ -1,0 +1,1089 @@
+,brand,processor_brand,processor_name,ram,ram_type,ssd,clock,gpu,gpu_memory,price
+0,SAMSUNG,Intel,Core i7,16,LPDDR4X,0.512,5.0,Intel Integrated Iris Xe,0,86990
+1,SAMSUNG,Intel,Core i5,8,LPDDR4X,0.512,4.6,Intel Integrated Iris Xe,0,71990
+2,HP,AMD,Athlon Dual Core,8,DDR4,0.512,3.2,AMD Radeon AMD,0,26990
+3,HP,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,35990
+4,HP,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,37990
+5,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon Radeon Graphics,0,41990
+6,HP,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,35990
+7,HP,AMD,Ryzen 3 Dual Core,8,DDR4,0.512,3.5,AMD Radeon AMD,0,29490
+8,Lenovo,AMD,Athlon Dual Core,8,LPDDR5,0.512,3.5,AMD Radeon 610M Graphics,0,26990
+9,HP,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,38451
+10,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,38990
+11,HP,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Integrated,0,50990
+12,HP,Intel,Core i3,8,DDR4,0.512,4.5,Intel Integrated Integrated,0,44990
+13,ASUS,Intel,Core i5,16,DDR5,1.0,4.6,NVIDIA GeForce RTX 3050,6,94990
+14,HP,AMD,Athlon Dual Core,4,DDR4,0.256,3.2,NA,0,19990
+15,HP,AMD,Ryzen 3 Quad Core,8,DDR4,0.512,3.8,AMD Radeon Radeon Graphics,0,33999
+16,HP,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Integrated,0,52990
+17,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,69990
+18,HP,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,60990
+19,HP,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,58990
+20,MSI,Intel,Core i7,16,DDR4,0.256,4.6,NVIDIA GeForce GTX 1650,4,57990
+21,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.3,AMD Radeon Radeon Graphics,0,50990
+22,HP,Intel,Core i5,16,DDR4,0.512,4.6,Intel Integrated Iris Xe,0,68990
+23,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.3,AMD Radeon AMD,0,55990
+24,HP,Intel,Core i5,8,LPDDR4X,0.512,2.4,Intel Integrated Iris Xe,0,74990
+25,HP,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,37990
+26,HP,Intel,Core i3,8,DDR4,0.512,2.6,Intel Integrated Intel® UHD Graphics,0,35999
+27,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,39990
+28,HP,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,74990
+29,HP,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,47990
+30,ASUS,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,47990
+31,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon AMD,0,41990
+32,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon AMD,0,41999
+33,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,AMD Radeon RX 6500M,4,52990
+34,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,61990
+35,Lenovo,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD Graphics,0,34990
+36,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,61990
+37,HP,Intel,Core i5,8,DDR4,0.512,4.6,Intel Integrated Integrated,0,57990
+38,HP,Intel,Core i5,16,DDR4,1.0,4.4,Intel Integrated Iris Xe,0,69990
+39,HP,Intel,Core i3,16,DDR4,0.512,4.4,Intel Integrated UHD,0,40990
+40,HP,Intel,Celeron Dual Core,8,DDR4,0.512,2.8,Intel Integrated Intel® UHD Graphics,0,28490
+41,HP,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,53990
+42,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.7,Intel Integrated Iris Xe,0,82990
+43,ASUS,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,39990
+44,HP,AMD,Athlon Dual Core,8,DDR4,0.512,3.2,AMD Radeon AMD,0,29936
+45,HP,AMD,Ryzen 5 Hexa Core,16,LPDDR5,0.512,4.55,AMD Radeon AMD,0,65990
+46,HP,Intel,Core i3,8,DDR4,0.512,3.7,Intel Integrated UHD,0,54070
+47,HP,Intel,Core i5,16,LPDDR4X,0.512,2.4,Intel Integrated Iris Xe,0,85490
+48,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.5,AMD Radeon AMD,0,58990
+49,HP,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,35990
+50,HP,Intel,Core i5,8,LPDDR4X,0.512,2.4,Intel Integrated Iris Xe,0,74990
+51,MSI,Intel,Core i5,8,DDR5,0.512,4.4,NVIDIA GeForce RTX 3050,6,69990
+52,MSI,Intel,Core i5,16,DDR4,0.256,4.4,NVIDIA GeForce RTX 4060,8,86990
+53,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.3,AMD Radeon Radeon,0,55990
+54,HP,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.3,AMD Radeon AMD,0,50990
+55,HP,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,56990
+56,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.256,2.1,AMD Radeon AMD Radeon™ Graphics,0,32999
+57,MSI,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,49990
+58,Lenovo,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,70990
+59,HP,AMD,Ryzen 5 Hexa Core,8,DDR5,0.512,4.55,NVIDIA GeForce RTX 2050,4,56990
+60,HP,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 3050,4,84990
+61,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4050,6,103990
+62,Lenovo,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe Graphics,0,61990
+63,HP,Intel,Core i5,16,DDR4,0.512,4.6,Intel Integrated Integrated,0,64990
+64,HP,Intel,Core i5,8,DDR4,0.512,4.0,Intel Integrated Intel Iris Xe Graphics,0,54990
+65,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce GTX 1650,4,59490
+66,HP,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,78990
+67,MSI,Intel,Core i7,16,DDR4,0.256,4.6,NVIDIA GeForce RTX 3050,4,63990
+68,MSI,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 4050,6,82990
+69,HP,Intel,Core i5,16,DDR4,0.512,4.6,Intel Integrated Iris Xe,0,66490
+70,ASUS,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,50990
+71,SAMSUNG,Intel,Core i5,16,DDR4X,0.512,5.0,Intel Integrated Iris Xe,0,112990
+72,HP,Intel,Core i7,16,DDR4,0.512,5.0,NVIDIA GeForce RTX 4050,6,104990
+73,HP,AMD,Ryzen 7 Octa Core,16,LPDDR5,1.0,4.75,AMD Radeon AMD,0,77990
+74,HP,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,70990
+75,HP,Intel,Core i7,16,DDR4,1.0,4.4,Intel Integrated Iris Xe,0,104990
+76,MSI,Intel,Core i7,8,DDR5,0.512,4.7,NVIDIA GeForce RTX 3050,6,79990
+77,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.6,Intel Integrated Integrated,0,92990
+78,HP,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,37990
+79,HP,AMD,Athlon Dual Core,4,DDR4,0.256,2.1,NA,0,19990
+80,ASUS,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,51990
+81,SAMSUNG,Intel,Core i7,16,LPDDR4X,0.512,5.0,Intel Integrated Iris Xe,0,86990
+82,HP,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,36990
+83,HP,AMD,Ryzen 3 Dual Core,8,DDR4,0.512,2.6,NA Radeon Graphics,0,26999
+84,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.3,AMD Radeon Radeon Graphics,0,54990
+85,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.3,AMD Radeon Radeon Graphics,0,59100
+86,MSI,Intel,Core i7,8,DDR4,0.512,4.6,NVIDIA GeForce RTX 3050,4,68590
+87,Acer,Intel,Core i7,16,DDR5,1.0,5.0,NVIDIA GeForce RTX 4050,6,109990
+88,HP,Intel,Core i7,16,DDR4,1.0,4.7,Intel Integrated UHD Graphics,0,79990
+89,MSI,Intel,Core i7,16,DDR4,1.0,4.7,NVIDIA GeForce RTX A1000,4,107990
+90,Acer,Intel,Core i5,16,DDR4,0.512,3.3,NVIDIA GeForce RTX 3050,4,78990
+91,HP,AMD,Ryzen 3 Dual Core,8,DDR4,0.512,3.5,AMD Radeon AMD,0,26990
+92,HP,Intel,Core i5,8,DDR4,0.512,2.6,Intel Integrated Intel® Iris® X Graphics,0,50990
+93,HP,Intel,Core i5,16,DDR5,0.512,4.6,NVIDIA GeForce RTX 4050,6,99990
+94,HP,AMD,Ryzen 5 Hexa Core,16,LPDDR5,0.512,4.55,AMD Radeon AMD,0,65990
+95,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 4060,8,105990
+96,SAMSUNG,Intel,Core i5,16,DDR5,0.512,4.6,Intel Integrated Iris Xe,0,150990
+97,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce GTX 1650,4,51990
+98,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,1.0,4.4,NVIDIA GeForce RTX 3060,6,104990
+99,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 4060,8,99990
+100,HP,Intel,Core i9,32,DDR5,2.0,5.0,NVIDIA GeForce RTX 3080Ti,16,255490
+101,HP,AMD,Ryzen 3 Dual Core,8,DDR4,0.512,2.1,AMD Radeon AMD Radeon™ Graphics,0,27290
+102,HP,Intel,Core i5,8,DDR4,0.256,4.2,Intel Integrated Iris Xe,0,50990
+103,HP,Intel,Core i5,16,LPDDR4X,0.512,2.4,Intel Integrated Iris Xe,0,85490
+104,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,65990
+105,ASUS,Intel,Core i9,16,DDR4,0.512,4.9,NVIDIA GeForce RTX 3050,4,87990
+106,HP,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,77990
+107,HP,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,51990
+108,HP,Intel,Core i3,8,DDR4,0.256,3.7,Intel Integrated UHD,0,38700
+109,HP,Intel,Core i7,16,LPDDR4X,1.0,4.7,Intel Integrated Iris Xe,0,114490
+110,HP,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated UHD,0,61990
+111,HP,Intel,Core i5,8,DDR4,0.512,4.6,Intel Integrated Integrated,0,58990
+112,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,63990
+113,HP,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,40990
+114,HP,AMD,Ryzen 3 Dual Core,8,DDR4,0.512,3.5,AMD Radeon Radeon,0,36990
+115,HP,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,65500
+116,HP,Intel,Core i7,16,LPDDR4X,0.512,4.7,NA,0,111990
+117,HP,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,47890
+118,HP,AMD,Ryzen 7 Octa Core,16,DDR5,1.0,5.1,NVIDIA GeForce RTX 4050,6,109990
+119,HP,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 3050,4,88490
+120,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,59990
+121,HP,Intel,Core i7,16,LPDDR4X,0.512,4.7,NA,0,141990
+122,HP,Intel,Core i5,8,DDR4,0.512,3.7,Intel Integrated Iris Plus,0,99990
+123,HP,AMD,Ryzen 3 Quad Core,8,DDR4,0.512,3.5,AMD Radeon AMD,0,30990
+124,HP,Intel,Core i5,16,LPDDR5,0.512,4.6,Intel Integrated Iris Xe,0,75990
+125,HP,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe Graphics,0,72990
+126,HP,Intel,Core i5,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 4050,6,116463
+127,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.3,AMD Radeon AMD,0,52990
+128,HP,Intel,Core i7,16,DDR4,1.0,4.6,NVIDIA GeForce RTX RTX 3050Ti,4,119999
+129,HP,Intel,Core i9,32,DDR5,1.0,5.4,NVIDIA GeForce RTX 4070,8,277278
+130,HP,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,39990
+131,HP,Intel,Core i5,16,DDR4,0.512,4.4,NA NO,0,62500
+132,HP,Intel,Core i3,8,DDR4,0.512,2.1,Intel Integrated Intel® UHD Graphics,0,33990
+133,HP,Intel,Core i7,16,DDR4,0.512,5.0,NVIDIA GeForce RTX 4050,6,109990
+134,HP,Intel,Core i5,16,DDR4,1.0,4.6,Intel Integrated Iris Xe,0,76900
+135,HP,Intel,Core i5,16,LPDDR5,0.512,4.6,Intel Integrated Iris Xe,0,87490
+136,HP,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,4.7,AMD Radeon RX 6650M,8,107142
+138,HP,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,72990
+139,HP,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3060,6,91990
+140,HP,AMD,Ryzen 5 Hexa Core,8,DDR5,0.512,4.5,NVIDIA GeForce RTX 3050,4,85900
+141,HP,AMD,Ryzen 7 Octa Core,8,DDR5,0.512,4.7,NVIDIA GeForce RTX 3050 Ti,4,104000
+142,HP,AMD,Ryzen 7 Octa Core,16,LPDDR5,1.0,4.75,AMD Radeon AMD,0,77990
+143,HP,AMD,Ryzen 5 Hexa Core,8,DDR5,0.512,4.55,NVIDIA GeForce RTX 2050,4,55990
+144,HP,AMD,Ryzen 5 Quad Core,16,LPDDR5,0.512,4.3,AMD Radeon AMD,0,49499
+145,HP,AMD,Ryzen 5 Quad Core,8,DDR4,0.512,4.3,AMD Radeon AMD,0,43999
+146,HP,Intel,Core i7,32,DDR4,1.0,5.0,Arc A370M A370M,4,184490
+147,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,AMD Radeon RX 6500M,4,56990
+148,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,AMD Radeon RX 6500M,4,53999
+149,HP,Intel,Core i7,16,LPDDR3,0.512,4.5,NVIDIA GeForce GTX,0,188550
+150,HP,AMD,Ryzen 5 Dual Core,8,DDR4,0.512,2.1,AMD Radeon AMD Radeon™ Graphics,0,36220
+151,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,AMD Radeon AMD,0,81790
+152,HP,Intel,Core i5,8,DDR4,0.128,3.5,NVIDIA GeForce GTX 1050,4,73990
+153,HP,AMD,Ryzen 5 Hexa Core,16,LPDDR5,0.512,4.55,AMD Radeon AMD,0,68490
+154,HP,AMD,Ryzen 5 Quad Core,8,DDR4,0.512,3.7,NVIDIA GeForce GTX 1650,4,55490
+155,HP,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,95000
+156,HP,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050Ti,4,89990
+157,HP,Intel,Core i7,16,DDR5,0.512,5.0,NVIDIA GeForce RTX 4060,8,151990
+158,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 3060,6,77990
+159,HP,AMD,Ryzen 7 Octa Core,16,LPDDR5,1.0,4.75,AMD Radeon AMD,0,77990
+160,HP,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,41990
+161,HP,AMD,Ryzen 7 Octa Core,16,LPDDR5,0.512,4.5,AMD Radeon AMD,0,86490
+162,HP,Intel,Core i7,16,DDR4,1.0,5.0,NA,0,141990
+163,HP,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX GTX 1650,4,67490
+164,HP,AMD,Ryzen 7 Octa Core,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,69890
+165,HP,Intel,Core i5,8,DDR3,0.256,3.4,Intel Integrated UHD620,0,69990
+166,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,53999
+167,HP,AMD,Ryzen 7 Octa Core,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,77990
+168,HP,Intel,Core i3,4,DDR4,0.512,3.4,Intel Integrated UHD,0,31990
+169,HP,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,68390
+170,HP,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,111990
+171,HP,Intel,Core i9,32,DDR4,1.0,4.9,NVIDIA GeForce RTX 3060,6,192900
+172,HP,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,55390
+173,HP,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,34999
+174,HP,AMD,Ryzen 5 Quad Core,16,LPDDR5,0.512,4.3,AMD Radeon AMD,0,51990
+175,HP,Intel,Core i7,16,DDR5,1.0,5.0,NVIDIA GeForce RTX 4070,8,199990
+176,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,69500
+177,HP,Intel,Core i5,8,DDR4,0.512,4.6,Intel Integrated Integrated,0,58990
+178,HP,Intel,Core i3,8,DDR4,0.512,4.5,Intel Integrated Integrated,0,51500
+179,HP,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,65990
+180,HP,Intel,Core i3,8,DDR4,0.256,3.0,Intel Integrated,0,32490
+181,HP,AMD,Ryzen 3 Dual Core,8,DDR4,0.256,3.5,AMD Radeon Vega 6,0,37290
+182,HP,AMD,Ryzen 3 Dual Core,8,DDR4,0.256,3.5,AMD Radeon Radeon,0,29990
+183,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce GTX 1650,4,57990
+184,HP,AMD,Ryzen 5 Hexa Core,16,LPDDR5,0.512,4.5,AMD Radeon AMD,0,85490
+185,HP,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,79400
+186,HP,AMD,Ryzen 7 Octa Core,16,DDR4,1.0,4.4,AMD Radeon RX 6600M,0,117990
+187,HP,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,70990
+188,HP,Intel,Core i7,16,DDR5,0.512,5.0,NVIDIA GeForce RTX 4060,8,176108
+189,HP,Intel,Core i7,16,LPDDR4X,1.0,4.7,NA,0,140999
+190,HP,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,46800
+191,HP,Intel,Core i7,16,DDR4,0.512,4.7,Intel Integrated Iris Xe,0,109990
+192,HP,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe Graphics,0,72499
+193,HP,Intel,Core i7,16,DDR5,0.512,5.0,NVIDIA GeForce RTX 4060,8,176108
+194,HP,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,83999
+195,HP,Intel,Core i5,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 4050,6,153625
+196,HP,Intel,Core i7,16,DDR4,1.0,4.7,Intel Integrated Iris Xe,0,92999
+197,HP,Intel,Core i7,16,DDR4,1.0,4.6,NVIDIA GeForce RTX 3070,8,134490
+198,HP,Intel,Core i7,16,LPDDR4X,1.0,5.0,NA,0,149899
+199,HP,Intel,Core i7,16,DDR4,0.512,5.0,Intel Integrated Iris Xe,0,89999
+200,HP,Intel,Core i5,8,DDR4,0.512,4.5,NA Intel Iris Xe Graphics,0,59999
+201,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce GTX 1650,4,54990
+202,HP,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 3070,8,150990
+203,HP,AMD,Athlon Dual Core,8,DDR4,0.256,3.2,AMD Radeon AMD,0,27990
+204,HP,AMD,Ryzen 5 Dual Core,8,DDR4,0.512,2.6,AMD Radeon AMD Radeon™ Graphics,0,36999
+205,HP,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,38890
+206,SAMSUNG,Intel,Core i7,16,LPDDR4X,0.512,5.0,Intel Integrated Iris Xe,0,86990
+207,SAMSUNG,Intel,Core i5,8,LPDDR4X,0.512,4.6,Intel Integrated Iris Xe,0,71990
+208,DELL,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,35890
+209,DELL,Intel,Core i5,16,DDR4,0.512,4.2,Intel Integrated UHD Graphics,0,51990
+210,DELL,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated UHD,0,49990
+211,DELL,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,30990
+212,Lenovo,AMD,Athlon Dual Core,8,LPDDR5,0.512,3.5,AMD Radeon 610M Graphics,0,26990
+213,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated Integrated,0,28490
+214,DELL,AMD,Ryzen 5 Hexa Core,8,DDR5,0.512,4.5,NVIDIA GeForce RTX 3050,4,59990
+215,ASUS,Intel,Core i5,16,DDR5,1.0,4.6,NVIDIA GeForce RTX 3050,6,94990
+216,DELL,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,35490
+217,DELL,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,36845
+218,DELL,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 3060,6,106990
+219,DELL,AMD,Ryzen 3 Quad Core,8,DDR4,0.512,3.85,AMD Radeon AMD,0,30990
+220,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,69990
+221,DELL,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD Graphics,0,36890
+222,DELL,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated UHD,0,48990
+223,HP,AMD,Athlon Dual Core,8,DDR4,0.512,3.2,AMD Radeon AMD,0,26990
+224,DELL,AMD,Ryzen 3 Dual Core,8,DDR4,0.256,3.5,AMD Radeon Radeon Graphics,0,29490
+225,DELL,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated Intel UHD Graphics,0,37990
+226,DELL,Intel,Core i5,8,DDR4,0.512,5.0,Intel Integrated Integrated,0,52990
+227,DELL,Intel,Core i5,8,DDR4,0.512,5.0,Intel Integrated Integrated,0,52990
+228,MSI,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,41990
+229,Lenovo,Intel,Core i3,8,DDR4,0.256,4.4,Intel Integrated UHD,0,33990
+230,DELL,Intel,Core i5,16,DDR5,0.512,4.5,NVIDIA GeForce RTX 3050,4,72990
+231,DELL,Intel,Core i3,8,DDR5,0.512,4.4,Intel Integrated UHD Graphics,0,68990
+232,ASUS,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,47990
+233,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,61990
+234,DELL,Intel,Core i7,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 3060,6,99990
+235,DELL,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated UHD,0,72990
+236,DELL,Intel,Core i7,16,LPDDR5,1.0,5.0,Intel Integrated Intel® Iris Xe Graphics,0,84990
+237,HP,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,51990
+238,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon AMD,0,41990
+239,DELL,Intel,Core i7,16,LPDDR5,0.512,5.0,Intel Integrated Intel® Iris Xe Graphics,0,83990
+240,ASUS,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,29990
+241,Lenovo,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD Graphics,0,34990
+242,DELL,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,36890
+243,DELL,Intel,Core i3,8,DDR4,0.512,3.4,Intel Integrated UHD,0,33990
+244,DELL,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated UHD,0,67480
+245,ASUS,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,44990
+246,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.3,AMD Radeon Radeon Graphics,0,50990
+247,DELL,Intel,Core i5,8,DDR4,0.512,4.6,Intel Integrated UHD,0,61990
+248,MSI,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,34990
+249,MSI,Intel,Core i5,16,DDR4,0.512,4.6,Intel Integrated Iris Xe,0,53990
+250,DELL,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe Graphics,0,68900
+251,DELL,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Integrated,0,49990
+252,DELL,Intel,Core i5,8,DDR5,0.512,4.5,NVIDIA GeForce RTX 3050,4,63990
+253,DELL,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated UHD Graphics,0,45990
+254,MSI,Intel,Core i7,16,DDR4,0.512,5.0,Intel Integrated Iris Xe,0,65990
+255,MSI,Intel,Core i7,16,DDR4,0.512,5.0,Intel Integrated Iris Xe,0,64990
+256,DELL,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 3060,6,106490
+257,MSI,Intel,Core i5,16,DDR4,0.512,4.6,Intel Integrated Iris Xe,0,54990
+258,MSI,Intel,Core i7,8,DDR4,0.512,5.0,Intel Integrated Iris Xe,0,64990
+259,DELL,AMD,Ryzen 5 Quad Core,8,DDR4,0.512,2.1,AMD Radeon AMD Ryzen(TM) 5 5500U 6-core/1 2-thread Processor with Radeon (TM) Graphics,0,42480
+260,DELL,Intel,Core i5,8,DDR4,0.512,4.2,NVIDIA GeForce MX330,2,50000
+261,DELL,AMD,Ryzen 7 Octa Core,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 3070 Ti,8,99990
+262,DELL,Intel,Core i7,16,DDR5,0.512,4.4,NVIDIA GeForce MX550,2,95990
+263,MSI,Intel,Core i7,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,60990
+264,MSI,Intel,Core i5,8,DDR4,0.512,4.6,Intel Integrated Iris Xe,0,51990
+265,DELL,Intel,Core i7,16,DDR4,0.512,4.6,NVIDIA GeForce RTX 3050 Ti,4,82490
+266,DELL,Intel,Core i3,8,DDR4,0.512,3.0,Intel Integrated Integrated,0,38990
+267,MSI,Intel,Core i7,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,49990
+268,MSI,Intel,Core i5,8,DDR4,0.512,4.6,Intel Integrated Iris Xe,0,53990
+269,DELL,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,35490
+270,DELL,Intel,Core i7,32,DDR5,1.0,4.7,NVIDIA GeForce RTX 3070 Ti,8,237990
+271,DELL,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3060,6,86490
+272,DELL,Intel,Core i3,8,DDR4,0.256,3.4,Intel Integrated UHD,0,39490
+273,MSI,Intel,Core i7,16,DDR4,0.256,4.6,NVIDIA GeForce RTX 3050,4,63990
+274,Lenovo,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,65990
+275,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD Graphics,0,34490
+276,DELL,Intel,Core i9,32,LPDDR5,1.0,5.0,NVIDIA GeForce RTX 3070 Ti,8,242490
+277,MSI,Intel,Core i7,8,DDR4,0.512,4.6,NVIDIA GeForce RTX 3050,4,68590
+278,Acer,Intel,Core i7,16,DDR5,0.512,5.0,NVIDIA GeForce RTX 4050,6,104990
+279,DELL,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated UHD,0,47990
+280,DELL,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce MX450,2,59990
+281,DELL,Intel,Core i5,8,LPDDR5,0.512,4.6,Intel Integrated Integrated,0,78990
+282,DELL,Intel,Core i5,8,DDR4,0.256,4.4,Intel Integrated UHD,0,53990
+283,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 4050,6,92990
+284,MSI,Intel,Core i7,16,DDR5,0.512,4.9,NVIDIA GeForce RTX 2050,4,94990
+285,DELL,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated UHD,0,54490
+286,DELL,Intel,Core i5,8,DDR5,0.512,4.4,Intel Integrated UHD Graphics,0,72890
+287,MSI,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,47990
+288,MSI,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,59990
+289,DELL,Intel,Core i5,16,DDR4,1.0,4.6,Intel Integrated UHD,0,71990
+290,DELL,Intel,Core i5,16,LPDDR4X,0.512,4.2,Intel Integrated Iris Xe,0,91490
+291,DELL,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,86500
+292,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,47990
+293,MSI,Intel,Core i5,16,DDR4,0.256,4.4,NVIDIA GeForce RTX 4050,6,74990
+294,DELL,Intel,Core i5,8,LPDDR5,0.512,4.6,Intel Integrated Integrated,0,74990
+295,DELL,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.3,AMD Radeon AMD,0,89976
+296,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,61990
+297,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 4060,8,97990
+298,DELL,Intel,Core i3,8,DDR4,0.256,3.4,Intel Integrated UHD,0,34490
+299,DELL,AMD,Ryzen 3 Dual Core,8,DDR4,0.256,3.5,AMD Radeon AMD,0,40149
+300,DELL,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce MX550,2,157375
+301,DELL,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,86500
+302,Lenovo,Intel,Core i7,16,DDR5,0.512,4.9,NVIDIA GeForce RTX 4060,8,111990
+303,MSI,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,53990
+304,DELL,AMD,Ryzen 3 Quad Core,8,DDR4,0.512,4.1,AMD Radeon AMD,0,42400
+305,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,37990
+306,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4050,6,101990
+307,Acer,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,61500
+308,DELL,Intel,Core i5,16,LPDDR4X,0.512,4.2,Intel Integrated Iris Xe,0,91990
+309,DELL,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated Intel UHD Graphics,0,35990
+310,DELL,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD Graphics,0,37990
+311,DELL,AMD,Ryzen 3 Quad Core,8,DDR4,0.256,4.1,AMD Radeon AMD,0,31990
+312,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4060,8,113990
+313,Lenovo,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,67990
+314,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,39989
+315,DELL,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,56000
+316,DELL,Intel,Core i5,8,DDR4,0.512,3.6,Intel Integrated UHD,0,46999
+317,DELL,Intel,Core i3,8,DDR4,0.512,3.4,Intel Integrated UHD,0,33990
+318,DELL,AMD,Ryzen 3 Dual Core,8,DDR4,0.256,3.5,AMD Radeon AMD,0,31490
+319,DELL,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.5,AMD Radeon Radeon Graphics,0,70490
+320,DELL,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,38990
+321,DELL,Intel,Core i5,8,DDR4,0.512,4.2,NVIDIA GeForce MX330,2,61000
+322,DELL,Intel,Core i5,16,DDR4,0.512,4.1,NVIDIA GeForce GTX 3050,4,78500
+323,DELL,Intel,Core i3,4,DDR4,0.256,4.1,Intel Integrated UHD,0,41990
+324,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,42690
+325,DELL,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,81300
+326,DELL,Intel,Core i5,16,DDR5,0.512,4.6,NVIDIA GeForce RTX 3050,6,95990
+327,DELL,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Intel UHD Graphics,0,73900
+328,DELL,Intel,Core i7,16,DDR5,0.512,4.7,Intel Integrated UHD,0,113104
+329,DELL,Intel,Core i7,32,DDR5,1.0,4.7,NVIDIA GeForce RTX 3070 Ti,8,221990
+330,DELL,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,40990
+331,DELL,Intel,Core i5,8,DDR4,0.256,4.0,Intel Integrated UHD 620,0,49999
+332,DELL,AMD,Ryzen 7 Quad Core,8,DDR4,0.512,4.0,AMD Radeon RX Vega 10,0,65800
+333,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,34999
+334,DELL,Intel,Core i9,32,DDR5,1.0,5.0,NVIDIA GeForce RTX 3070 Ti,8,289990
+335,DELL,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated UHD,2,64999
+336,DELL,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 3050,4,92990
+337,DELL,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce MX450,2,67999
+338,DELL,AMD,Ryzen 3 Dual Core,8,DDR4,0.512,3.5,AMD Radeon Radeon Graphics,0,33490
+339,DELL,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.5,AMD Radeon AMD,0,99500
+340,DELL,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 3060,6,194990
+341,DELL,AMD,Ryzen 3 Quad Core,8,DDR4,0.256,4.1,AMD Radeon AMD,0,41568
+342,DELL,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,78450
+343,DELL,Intel,Core i5,8,DDR4,0.256,4.2,Intel Integrated UHD Graphics,2,62200
+344,DELL,Intel,Core i5,8,DDR4,0.512,4.2,NVIDIA GeForce MX330,2,49990
+345,DELL,Intel,Core i5,16,DDR4,0.512,4.2,NVIDIA GeForce MX350,2,89290
+346,DELL,AMD,Ryzen 5 Quad Core,8,DDR4,0.256,3.5,AMD Radeon Vega 8,0,45000
+347,DELL,Intel,Core i5,4,DDR4,0.256,4.2,Intel Integrated Iris Xe,0,49500
+348,DELL,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated UHD,0,103000
+349,DELL,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce MX570,2,87490
+350,DELL,Intel,Core i5,8,DDR4,0.512,3.6,Intel Integrated UHD,0,62990
+351,DELL,AMD,Ryzen 3 Dual Core,8,DDR4,0.256,3.5,AMD Radeon,0,37449
+352,DELL,Intel,Core i9,32,LPDDR5,1.0,5.4,NVIDIA GeForce RTX 4080 GDDR6,12,379990
+353,DELL,Intel,Core i5,16,DDR4,0.512,2.4,Intel Integrated UHD,0,173636
+354,DELL,AMD,Ryzen 5 Quad Core,8,DDR4,0.512,3.7,AMD Radeon Vega Graphics,0,33990
+355,DELL,Intel,Core i5,8,DDR4,0.256,3.6,Intel Integrated UHD,0,53999
+356,DELL,Intel,Core i3,4,DDR4,0.512,4.1,Intel Integrated UHD,0,45990
+357,DELL,Intel,Core i7,16,DDR3,0.512,4.0,Intel Integrated UHD620,0,114990
+358,DELL,Intel,Core i7,16,DDR4,0.512,5.0,Intel Integrated Iris Xe,0,105500
+359,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD Graphics,0,44900
+360,DELL,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce MX550,2,81990
+361,DELL,Intel,Core i7,32,DDR5,1.0,4.7,NVIDIA GeForce RTX 3060,6,246490
+362,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD Graphics,0,37990
+363,DELL,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated UHD,0,50345
+364,DELL,Intel,Core i5,8,LPDDR4X,0.512,3.6,Intel Integrated UHD,0,103490
+365,DELL,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe Graphics,0,82000
+366,DELL,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated UHD,0,74990
+367,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,45590
+368,DELL,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,53990
+369,DELL,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce MX550,2,71990
+370,DELL,Intel,Core i5,8,DDR4,0.256,4.2,Intel Integrated UHD,0,54046
+371,DELL,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce MX450,2,62990
+372,DELL,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050 Ti,4,74990
+373,DELL,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated UHD,0,54969
+374,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,42990
+375,DELL,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,98500
+376,DELL,Intel,Core i7,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 3050 Ti,4,138990
+377,DELL,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated UHD,0,52500
+378,DELL,Intel,Pentium Quad Core,8,DDR4,0.256,3.1,Intel Integrated UHD,0,36490
+379,DELL,Intel,Core i5,8,LPDDR4X,0.512,4.2,Intel Integrated Iris Xe,0,105000
+380,DELL,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.3,AMD Radeon AMD,0,55490
+381,DELL,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.3,AMD Radeon Radeon,0,71990
+382,DELL,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,42131
+383,DELL,Intel,Core i3,4,DDR4,0.512,4.1,Intel Integrated UHD,0,64500
+384,DELL,Intel,Core i5,8,DDR5,0.512,4.4,NVIDIA GeForce MX550,2,83990
+385,DELL,Intel,Core i7,8,DDR4,0.256,4.0,AMD Radeon 530,4,87990
+386,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,39999
+387,DELL,Intel,Core i3,8,DDR4,0.256,3.4,Intel Integrated UHD,0,39999
+388,DELL,Intel,Core i3,8,DDR4,0.512,4.2,Intel Integrated intel,0,52998
+389,DELL,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.3,AMD Radeon AMD,0,73990
+390,DELL,Intel,Core i5,8,DDR4,0.512,4.5,Intel Integrated Iris Xe Graphics,0,77878
+391,DELL,Intel,Core i5,8,LPDDR5,0.512,4.6,Intel Integrated,0,82499
+392,DELL,Intel,Core i3,8,DDR4,0.256,3.4,Intel Integrated UHD,0,42150
+393,DELL,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,45000
+394,DELL,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated UHD,0,73990
+395,DELL,Intel,Core i7,16,DDR4,0.512,5.0,Intel Integrated Iris Xe,0,104500
+396,DELL,Intel,Core i5,16,DDR4,0.512,4.2,NVIDIA GeForce MX350,2,59899
+397,DELL,Intel,Core i3,4,DDR4,0.256,4.1,Intel Integrated UHD,0,39500
+398,DELL,Intel,Core i9,16,DDR5,1.0,5.0,NVIDIA GeForce RTX 3070 Ti,8,173900
+399,DELL,Intel,Core i7,16,DDR4,0.512,4.8,Intel Integrated Iris Xe,0,104462
+400,DELL,Intel,Core i5,8,DDR4,0.512,4.5,Intel Integrated Iris Xe Graphics,0,77500
+401,DELL,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,79999
+402,DELL,Intel,Core i3,8,DDR4,0.256,3.4,Intel Integrated UHD,0,38400
+403,Lenovo,AMD,Athlon Dual Core,8,LPDDR5,0.512,3.5,AMD Radeon 610M Graphics,0,26990
+404,SAMSUNG,Intel,Core i7,16,LPDDR4X,0.512,5.0,Intel Integrated Iris Xe,0,86990
+405,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,35990
+406,Lenovo,Intel,Core i5,16,LPDDR5,0.512,4.4,Intel Integrated Iris Xe,0,59990
+407,Lenovo,AMD,Ryzen 3 Hexa Core,8,DDR4,0.512,3.8,AMD Radeon AMD,0,30890
+408,Lenovo,Intel,Core i5,16,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,44990
+409,ASUS,Intel,Core i5,16,DDR5,1.0,4.6,NVIDIA GeForce RTX 3050,6,94990
+410,Lenovo,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe Graphics,0,41990
+411,Lenovo,AMD,Ryzen 7 Octa Core,32,DDR5,1.0,4.7,NVIDIA GeForce RTX 3070,8,124990
+412,Lenovo,Intel,Core i7,16,DDR4,0.512,4.7,Intel Integrated Iris Xe,0,47990
+413,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.3,AMD Radeon AMD,0,45990
+414,Lenovo,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,47990
+415,Lenovo,Intel,Core i5,16,LPDDR5,0.512,4.4,Intel Integrated UHD,0,59990
+416,Lenovo,Intel,Core i7,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,59990
+417,Lenovo,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD Radeon 610M Graphics,0,32990
+418,Lenovo,Intel,Core i7,16,LPDDR4X,0.512,5.0,Intel Integrated Iris Xe,0,87990
+419,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,35990
+420,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,69990
+421,Lenovo,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,51990
+422,Lenovo,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD Graphics,0,34990
+423,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce GTX 1650,4,46990
+424,Lenovo,Intel,Core i5,16,LPDDR4X,0.512,4.5,Intel Integrated Iris Xe,0,69990
+425,ASUS,AMD,Ryzen 5 Hexa Core,16,LPDDR4X,0.512,4.2,AMD Radeon AMD,0,54990
+426,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe Graphics,0,67990
+427,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,38990
+428,Lenovo,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated UHD,0,44990
+429,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,56990
+430,HP,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD Graphics,0,32990
+431,Lenovo,Intel,Core i3,8,DDR4,0.256,4.4,Intel Integrated UHD,0,33990
+432,Lenovo,Intel,Core i5,16,DDR5,0.512,3.3,NVIDIA GeForce RTX 4050,6,87990
+433,Lenovo,Intel,Core i5,16,LPDDR5,0.512,4.7,Intel Integrated Iris Xe,0,71990
+434,HP,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Integrated,0,50990
+435,HP,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated UHD Graphics,0,66990
+436,Lenovo,Intel,Core i3,8,DDR4,0.256,4.4,Intel Integrated UHD,0,31990
+437,Lenovo,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD Graphics,0,36990
+438,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon AMD,0,41999
+439,Lenovo,AMD,Ryzen 5 Hexa Core,16,LPDDR4X,0.512,4.5,AMD Radeon AMD,0,64990
+440,Lenovo,Intel,Core i5,16,DDR5,0.512,4.4,NVIDIA GeForce RTX 3050,6,74990
+441,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,1.0,4.4,NVIDIA GeForce RTX 3060,6,104990
+442,Lenovo,Intel,Core i5,16,DDR5,0.512,4.4,NVIDIA GeForce RTX 2050,4,64990
+443,Lenovo,Intel,Core i5,16,LPDDR5,0.512,3.8,Intel Integrated UHD,0,68990
+444,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,61990
+445,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon Radeon Graphics,0,41990
+446,Lenovo,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,52327
+447,Lenovo,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,67990
+448,MSI,Intel,Core i7,16,DDR4,0.256,4.6,NVIDIA GeForce RTX 3050,4,63990
+449,ASUS,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated Integrated,0,36990
+450,Lenovo,Intel,Core i3,8,LPDDR4X,0.512,4.5,Intel Integrated UHD,0,58990
+451,Lenovo,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,30990
+452,Lenovo,Intel,Core i5,16,DDR4,1.0,4.4,Intel Integrated Iris Xe,0,59999
+453,Lenovo,AMD,Ryzen 7 Octa Core,8,DDR4,0.512,4.5,AMD Radeon AMD,0,52390
+454,MSI,Intel,Core i7,8,DDR4,0.512,4.6,NVIDIA GeForce RTX 3050,4,68590
+455,Lenovo,AMD,Athlon Dual Core,4,DDR4,0.256,3.2,AMD Radeon AMD,0,21990
+456,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.7,Intel Integrated Iris Xe,0,82990
+457,ASUS,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,39990
+458,Lenovo,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 2050,4,49990
+459,Lenovo,Intel,Core i5,16,DDR4,1.0,4.4,Intel Integrated Iris Xe,0,74990
+460,Lenovo,AMD,Ryzen 5 Quad Core,16,LPDDR5,0.512,4.3,AMD Radeon 610M,0,44990
+461,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.5,AMD Radeon AMD,0,49990
+462,Lenovo,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,47990
+463,MSI,Intel,Core i5,8,DDR5,0.512,4.4,NVIDIA GeForce RTX 3050,6,69990
+464,Lenovo,AMD,Ryzen 5 Hexa Core,16,LPDDR4X,0.512,4.5,AMD Radeon AMD,0,73990
+465,Lenovo,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,36490
+466,MSI,Intel,Core i5,16,DDR4,0.256,4.4,NVIDIA GeForce RTX 4060,8,86990
+467,MSI,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,49990
+468,Lenovo,Intel,Core i7,16,LPDDR5,0.512,5.0,Intel Integrated Iris Xe,0,85990
+469,Lenovo,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated Integrated,0,33990
+470,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR5,1.0,4.4,NVIDIA GeForce RTX 3060,6,109990
+471,Lenovo,AMD,Ryzen 5 Quad Core,8,DDR4,0.512,3.7,AMD Radeon Vega 8 Graphics,0,41490
+472,Acer,Intel,Core i7,16,DDR5,0.512,5.0,NVIDIA GeForce RTX 4050,6,104990
+473,HP,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,58990
+474,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce GTX 1650,4,49990
+475,ASUS,Intel,Core i7,16,LPDDR5,1.0,5.0,Intel Integrated Integrated,0,129990
+476,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 2050,4,63190
+477,Lenovo,Intel,Core i7,32,DDR5,1.0,5.0,NVIDIA GeForce RTX 4060,8,149990
+478,Lenovo,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,35900
+479,Lenovo,Intel,Core i7,16,DDR5,0.512,4.9,NVIDIA GeForce RTX 4060,8,111990
+480,Lenovo,Intel,Celeron Dual Core,8,DDR4,0.256,2.8,Intel Integrated UHD Graphics 600,0,28990
+481,MSI,Intel,Core i7,8,DDR5,0.512,4.7,NVIDIA GeForce RTX 3050,6,79990
+482,MSI,Intel,Core i7,16,DDR5,0.512,4.9,NVIDIA GeForce RTX 3050,6,92990
+483,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.5,AMD Radeon AMD,0,63990
+484,Lenovo,Intel,Celeron Dual Core,8,DDR4,0.256,2.8,Intel Integrated UHD,0,28900
+485,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.6,Intel Integrated Integrated,0,92990
+486,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 4070,8,129990
+487,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon AMD,0,41990
+488,Lenovo,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 2050,4,47990
+489,Lenovo,Intel,Core i7,16,LPDDR5,0.512,5.0,Intel Integrated Iris Xe,0,111490
+490,MSI,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 4050,6,82990
+491,Acer,Intel,Core i5,16,DDR4,0.512,3.3,NVIDIA GeForce RTX 3050,4,78990
+492,Lenovo,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,32990
+493,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,73990
+494,SAMSUNG,Intel,Core i5,16,DDR5,0.512,4.6,Intel Integrated Iris Xe,0,150990
+495,Lenovo,AMD,Ryzen 5 Hexa Core,16,LPDDR4X,0.512,4.5,Intel Integrated Integrated AMD Radeon Graphics,0,76888
+496,Lenovo,Intel,Core i3,8,LPDDR5,0.512,4.5,Intel Integrated UHD,0,44990
+497,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,34990
+498,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 4060,8,105990
+499,Lenovo,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,53415
+500,Lenovo,Intel,Core i3,4,DDR4,0.256,4.1,Intel Integrated UHD,0,34990
+501,Lenovo,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated UHD,0,47481
+502,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,5.1,NVIDIA GeForce RTX 4050,6,97990
+503,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,65990
+504,Lenovo,Intel,Core i7,32,DDR5,1.0,4.7,NVIDIA GeForce RTX 3070,8,144990
+505,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,57490
+506,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR5,0.512,4.5,NVIDIA GeForce RTX 3050,4,57990
+507,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 4060,8,99990
+508,Acer,Intel,Core i5,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 4050,6,99990
+509,Lenovo,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,49500
+510,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,5.1,NVIDIA GeForce RTX 4060,8,105990
+511,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.5,AMD Radeon AMD,0,58990
+512,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR5,1.0,5.1,NVIDIA GeForce RTX 4060,8,131990
+513,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,1.9,AMD Radeon Integrated AMD Radeon Graphics,0,99990
+514,Lenovo,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,73099
+515,Lenovo,Intel,Core i7,16,LPDDR5,0.512,4.9,Intel Integrated UHD,0,87490
+516,Lenovo,Intel,Core i5,8,DDR4,0.512,4.2,NVIDIA GeForce MX350,2,84086
+517,Lenovo,Intel,Core i7,16,DDR4,1.0,4.6,NVIDIA GeForce RTX 3060,6,119990
+518,Lenovo,Intel,Core i5,16,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,54990
+519,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3060,6,96990
+520,Lenovo,Intel,Core i5,8,DDR4,1.0,4.2,Intel Integrated Iris Xe,0,66100
+521,Lenovo,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,41990
+522,Lenovo,Intel,Core i5,8,LPDDR4X,0.512,4.4,Intel Integrated Iris Xe,0,61990
+523,Lenovo,Intel,Core i7,16,DDR4,0.512,4.4,Intel Integrated Integrated Intel UHD Graphics,0,85888
+524,Lenovo,Intel,Celeron Dual Core,8,DDR4,0.256,2.8,Intel Integrated UHD,0,28490
+525,Lenovo,Intel,Core i7,32,DDR4,1.0,4.7,NVIDIA Quadro Nvidia Quadro T500,4,153700
+526,Lenovo,AMD,Ryzen 3 Quad Core,8,DDR4,0.256,3.8,Intel Integrated Integrated,0,35990
+527,Lenovo,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,54500
+528,Lenovo,AMD,Ryzen 5 Hexa Core,16,LPDDR4X,0.512,4.0,AMD Radeon AMD,0,55990
+529,Lenovo,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,54900
+530,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.5,AMD Radeon AMD,0,58990
+531,Lenovo,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated UHD,0,72500
+532,Lenovo,Intel,Core i3,4,DDR4,0.256,4.1,Intel Integrated UHD,0,34990
+533,Lenovo,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,30490
+534,Lenovo,Intel,Celeron Dual Core,4,DDR4,0.256,2.8,Intel Integrated UHD,0,30000
+535,Lenovo,Intel,Celeron Dual Core,8,DDR4,0.256,2.8,Intel Integrated UHD,0,27990
+536,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.1,AMD Radeon,0,73799
+537,Lenovo,Intel,Core i7,16,DDR4,1.0,5.1,NVIDIA GeForce RTX 2080 Super Max-Q,8,209990
+538,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon Radeon,0,43990
+539,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,5.1,NVIDIA GeForce RTX 4050,6,112990
+540,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,68990
+541,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,1.0,4.4,NVIDIA GeForce RTX 3060,6,99990
+542,Lenovo,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,57500
+543,Lenovo,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated UHD,0,47480
+544,Lenovo,Intel,Core i7,16,DDR4,0.512,4.6,NVIDIA GeForce RTX 3050,4,104990
+545,Lenovo,Intel,Core i5,8,DDR4,0.256,4.5,NVIDIA GeForce GTX 1650,4,56976
+546,Lenovo,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,49990
+547,Lenovo,Intel,Core i5,16,DDR4,0.512,4.2,Intel Integrated UHD,0,155411
+548,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,41490
+549,Lenovo,Intel,Core i7,8,DDR4,0.512,4.0,Intel Integrated UHD 620,0,78990
+550,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce GTX 1650,4,51990
+551,Lenovo,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,33990
+552,Lenovo,AMD,Ryzen 7 Octa Core,16,LPDDR4X,1.0,4.5,AMD Radeon AMD,0,85990
+553,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.3,Intel Integrated AMD,0,56990
+554,Lenovo,Intel,Core i3,4,DDR4,0.256,4.1,Intel Integrated UHD,0,34990
+555,Lenovo,Intel,Core i5,16,LPDDR5,0.512,4.7,Intel Integrated,0,85000
+556,Lenovo,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 3060,6,109490
+557,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,2.1,AMD Radeon,0,42990
+558,Lenovo,AMD,Ryzen 5 Hexa Core,16,LPDDR4X,0.512,4.0,AMD Radeon Radeon,0,63490
+559,Lenovo,AMD,Ryzen 7 Octa Core,8,DDR4,0.512,4.5,AMD Radeon AMD,0,52390
+560,Lenovo,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,37000
+561,Lenovo,Intel,Core i5,16,DDR4,0.512,4.2,Intel Integrated UHD,0,64990
+562,Lenovo,Intel,Core i3,8,DDR4,0.512,3.4,Intel Integrated UHD,0,36900
+563,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,80990
+564,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3060,6,81990
+565,Lenovo,AMD,Ryzen 7 Octa Core,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,71946
+566,Lenovo,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,38150
+567,Lenovo,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,36990
+568,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR5,0.512,4.5,Intel Integrated Integrated AMD Radeon Graphics,0,59840
+569,Lenovo,Intel,Core i7,16,LPDDR5,1.0,4.7,NVIDIA GeForce RTX 3050,4,135141
+570,Lenovo,Intel,Core i7,16,DDR4,0.512,4.7,Intel Integrated Iris Xe,0,140131
+571,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR5,1.0,5.1,NVIDIA GeForce RTX 4070,8,162990
+572,Lenovo,Intel,Core i7,16,DDR4,1.0,4.5,NVIDIA Quadro T2000,4,142490
+573,Lenovo,Intel,Core i5,8,DDR4,0.256,4.2,Intel Integrated INTEGRATED INTEL IRIS XE GRAPHICS,0,43990
+574,Lenovo,Intel,Core i7,16,DDR4,1.0,5.1,NVIDIA GeForce RTX 2080 Super Max-Q,8,161490
+575,Lenovo,AMD,Ryzen 7 Hexa Core,16,DDR4,0.512,4.3,AMD Radeon Integrated AMD Radeon Graphics,0,58500
+576,Lenovo,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA Quadro T550,4,133990
+577,Lenovo,Intel,Core i5,8,DDR4,0.256,4.2,Intel Integrated UHD,0,74000
+578,Lenovo,Intel,Core i7,16,DDR4,0.128,3.8,NVIDIA GeForce GTX 1050Ti,4,78490
+579,Lenovo,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,66990
+580,Lenovo,Intel,Core i7,8,DDR4,0.128,3.8,NVIDIA GeForce GTX 1050,4,84990
+581,Lenovo,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,47999
+582,Lenovo,Intel,Core i5,8,DDR4,0.256,4.2,Intel Integrated UHD,0,48990
+583,Lenovo,Intel,Core i5,8,DDR4,0.512,3.4,Intel Integrated UHD 620,0,68490
+584,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,68990
+585,Lenovo,Intel,Core i7,16,LPDDR4X,1.0,3.9,Intel Integrated Iris Plus,0,120990
+586,Lenovo,Intel,Core i7,16,DDR5,1.0,4.8,NVIDIA Quadro T1200,4,173490
+587,Lenovo,Intel,Celeron Dual Core,8,DDR4,0.256,2.8,Intel Integrated Integrated,0,22490
+588,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,5.1,NVIDIA GeForce RTX 4060,8,137590
+589,Lenovo,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated UHD,0,72699
+590,Lenovo,Intel,Core i5,8,DDR4,0.256,4.2,Intel Integrated Iris XE,0,43500
+591,Lenovo,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,37515
+592,Lenovo,Intel,Core i5,16,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,73750
+593,Lenovo,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,72000
+594,Lenovo,Intel,Core i3,8,DDR4,0.256,3.0,Intel Integrated INTEL UHD,0,34990
+595,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,AMD Radeon AMD,0,56990
+596,Lenovo,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,39500
+597,Lenovo,Intel,Core i7,16,LPDDR5,1.0,4.8,Intel Integrated Iris Xe,0,165990
+598,Lenovo,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,37990
+599,Lenovo,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,65200
+600,Lenovo,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,40990
+601,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.256,4.0,AMD Radeon,0,58990
+602,Lenovo,Intel,Core i7,16,DDR4,1.0,4.7,NVIDIA Quadro T550,4,144990
+603,Lenovo,Intel,Core i5,16,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,99899
+604,ASUS,Intel,Core i5,16,DDR5,1.0,4.6,NVIDIA GeForce RTX 3050,6,94990
+605,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,69990
+606,Acer,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated Integrated,0,27990
+607,Acer,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,33990
+608,Acer,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,31990
+609,Acer,Intel,Celeron Dual Core,8,DDR4,0.256,2.8,Intel Integrated UHD,0,18990
+610,Acer,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,27990
+611,ASUS,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,27990
+612,Acer,Intel,Core i3,8,LPDDR5,0.256,3.8,Intel Integrated UHD,0,30990
+613,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,49990
+614,Lenovo,AMD,Athlon Dual Core,8,LPDDR5,0.512,3.5,AMD Radeon 610M Graphics,0,26990
+615,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,AMD Radeon AMD,0,49990
+616,Acer,Intel,Core i7,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 4050,6,87990
+617,Acer,Intel,Core i3,16,DDR4,0.512,4.4,Intel Integrated UHD,0,36990
+618,Acer,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,57990
+619,Acer,Intel,Core i3,8,LPDDR5,0.512,3.8,Intel Integrated UHD,0,32990
+620,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,56990
+621,Acer,Intel,Celeron Dual Core,8,LPDDR4X,0.064,2.8,Intel Integrated UHD,0,15990
+622,Acer,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated Integrated,0,28990
+623,ASUS,AMD,Ryzen 5 Hexa Core,16,LPDDR4X,0.512,4.2,AMD Radeon AMD,0,54990
+624,Acer,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,53990
+625,Acer,Intel,Celeron Dual Core,8,DDR4,0.128,2.8,Intel Integrated UHD,0,17990
+626,Acer,Intel,Core i5,16,DDR4,0.512,4.6,NVIDIA GeForce RTX 2050,4,52990
+627,Acer,Intel,Core i5,8,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,32990
+628,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon Radeon Graphics,0,41990
+629,HP,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,54990
+630,Acer,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,35990
+631,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon AMD,0,41990
+632,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.3,AMD Radeon AMD,0,55990
+633,Acer,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,65990
+634,Acer,AMD,Ryzen 3 Dual Core,8,DDR4,0.512,3.5,AMD Radeon AMD,0,26990
+635,Acer,Intel,Core i5,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 4050,6,99990
+636,Acer,Intel,Core i3,8,LPDDR5,0.512,3.8,Intel Integrated UHD,0,26990
+637,Lenovo,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD Graphics,0,34990
+638,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,61990
+639,Acer,Intel,Core i7,16,DDR4,1.0,4.7,Intel Integrated Iris Xe,0,49990
+640,Acer,Intel,Core i7,16,DDR5,1.0,5.0,NVIDIA GeForce RTX 4050,6,109990
+641,Lenovo,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,38990
+642,ASUS,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,27990
+643,Acer,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,49990
+644,Acer,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Integrated,0,44990
+645,Acer,Intel,Core i7,16,DDR4,1.0,4.7,NVIDIA GeForce RTX 3070 Ti,8,96990
+646,Acer,Intel,Core i5,8,LPDDR4X,0.512,4.4,Intel Integrated Iris Xe,0,59990
+647,HP,AMD,Ryzen 3 Dual Core,8,DDR4,0.512,3.5,AMD Radeon AMD,0,29490
+648,HP,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,35990
+649,Acer,Intel,Core i7,32,LPDDR5,2.0,4.7,NVIDIA GeForce RTX 3070 Ti,8,179490
+650,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,63990
+651,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,47990
+652,Acer,Intel,Core i5,16,DDR4,0.512,3.3,NVIDIA GeForce RTX 3050,4,78990
+653,Acer,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon AMD,0,35990
+654,Acer,Intel,Core i9,16,DDR5,1.0,5.4,NVIDIA GeForce RTX 4070,8,164990
+655,Acer,Intel,Core i3,8,LPDDR5,0.512,4.5,Intel Integrated UHD,0,40990
+656,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,47990
+657,MSI,Intel,Core i7,8,DDR4,0.512,4.6,NVIDIA GeForce RTX 3050,4,68590
+658,MSI,Intel,Core i5,16,DDR4,0.256,4.4,NVIDIA GeForce RTX 4060,8,86990
+659,Acer,Intel,Core i9,16,DDR5,1.0,5.4,NVIDIA GeForce RTX 4060,8,139990
+660,Acer,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,54990
+661,MSI,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,49990
+662,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,65990
+663,Acer,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe Graphics,0,40990
+664,Acer,Intel,Core i3,8,LPDDR5,0.256,3.8,Intel Integrated UHD,0,29990
+665,Acer,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,NVIDIA GeForce GTX 1650,4,47999
+666,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,58990
+667,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4050,6,103990
+668,HP,Intel,Core i5,16,DDR4,1.0,4.4,Intel Integrated Iris Xe,0,69990
+669,MSI,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,55990
+670,HP,Intel,Core i3,16,DDR4,0.512,4.4,Intel Integrated UHD,0,40990
+671,Acer,Intel,Core i7,16,DDR4,1.0,4.6,NVIDIA GeForce RTX 3060,6,114490
+672,Acer,Intel,Core i5,16,DDR5,0.512,4.6,NVIDIA GeForce RTX 2050,4,62990
+673,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,50990
+674,Acer,AMD,Ryzen 5 Hexa Core,8,LPDDR4X,0.512,4.5,AMD Radeon AMD,0,49990
+675,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,61990
+676,HP,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,58990
+677,Acer,AMD,Ryzen 3 Dual Core,8,DDR4,0.256,3.5,AMD Radeon Radeon Graphics,0,26000
+678,Acer,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,67990
+679,HP,Intel,Core i7,16,LPDDR4X,1.0,5.0,NA,0,149899
+680,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4060,8,113990
+681,Acer,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 3060,6,129990
+682,Acer,Intel,Core i5,16,LPDDR4X,0.256,4.6,Intel Integrated UHD,0,87999
+683,Acer,Intel,Core i9,32,DDR5,1.0,5.4,NVIDIA GeForce RTX 4080,12,244990
+684,MSI,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 4050,6,82990
+685,MSI,Intel,Core i5,16,DDR5,0.512,4.4,NVIDIA GeForce RTX 3050,6,73990
+686,Acer,Intel,Celeron Dual Core,8,DDR4,0.256,2.8,Intel Integrated UHD,0,23490
+687,Acer,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,34990
+688,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,38990
+689,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,73990
+690,Acer,Intel,Core i5,8,DDR4,0.256,3.4,Intel Integrated UHD 620,0,46990
+691,Acer,Intel,Core i7,16,DDR4,2.0,5.0,NVIDIA GeForce RTX 2070 with Max-Q Design,8,116490
+692,Acer,AMD,Dual Core,4,DDR4,0.256,2.6,AMD Radeon AMD,0,22900
+693,Acer,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,42990
+694,MSI,AMD,Ryzen 7 Octa Core,8,DDR,0.512,4.4,AMD Radeon RX6500M,4,57990
+695,Lenovo,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,53415
+696,Acer,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce GTX 1650,4,67000
+697,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,5.1,NVIDIA GeForce RTX 4050,6,97990
+698,MSI,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,68990
+699,Acer,Intel,Core i5,16,DDR4,0.512,3.3,NVIDIA GeForce RTX 3050,4,78990
+700,Acer,Intel,Core i7,16,LPDDR5,1.0,4.7,Intel Integrated Iris Xe,0,103490
+701,Acer,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,37031
+702,Acer,Intel,Core i5,8,DDR3,0.512,3.4,Intel Integrated UHD 620,0,54490
+703,HP,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,74990
+704,HP,AMD,Ryzen 5 Hexa Core,8,DDR5,0.512,4.55,NVIDIA GeForce RTX 2050,4,55990
+705,Acer,Intel,Core i7,16,DDR4,2.0,5.0,NVIDIA GeForce RTX 2070 with Max-Q Design,8,130990
+706,Acer,Intel,Core i3,8,LPDDR5,0.512,3.8,Intel Integrated UHD,0,34990
+707,Lenovo,Intel,Core i5,16,DDR5,0.512,4.4,NVIDIA GeForce RTX 4060,8,94990
+708,ASUS,Intel,Core i5,8,DDR4,0.512,4.1,NVIDIA GeForce GTX 1650,4,56999
+709,Acer,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,31000
+710,Acer,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,48490
+711,Acer,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,5.1,NVIDIA GeForce RTX 4060,8,129990
+712,Acer,Intel,Core i7,16,LPDDR4X,1.0,5.0,NVIDIA GeForce RTX 3050Ti,4,97490
+713,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,59990
+714,Acer,Intel,Core i5,8,DDR4,0.256,4.2,Intel Integrated Iris Xe,0,44800
+715,Acer,AMD,Ryzen 5 Quad Core,8,DDR4,0.512,3.7,AMD Radeon Vega 8,0,37990
+716,Acer,Intel,Core i5,8,DDR4,0.512,4.2,NVIDIA GeForce MX350,2,59999
+717,Acer,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,27990
+718,Acer,Intel,Core i5,8,DDR4,0.256,4.5,NVIDIA GeForce RTX 3050,4,77000
+719,Acer,Intel,Core i5,16,LPDDR4X,0.512,4.4,Intel Integrated Iris Xe,0,67490
+720,Acer,Intel,Core i7,8,DDR4,0.128,3.8,NVIDIA GeForce GTX 1050Ti,4,109990
+721,Acer,Intel,Core i5,8,LPDDR4X,0.512,4.4,Intel Integrated Iris Xe,0,61999
+722,Acer,Intel,Core i5,8,DDR4,0.256,4.2,Intel Integrated Iris Xe,0,52990
+723,Acer,Intel,Core i7,8,DDR3,0.256,3.6,Intel Integrated HD615,0,94990
+724,Acer,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,32990
+725,Acer,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,65990
+726,Acer,Intel,Core i5,4,DDR4,0.512,4.2,NVIDIA GeForce MX350,2,47499
+727,Acer,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD Graphics,0,38700
+728,Acer,AMD,Ryzen 3 Dual Core,8,DDR4,0.512,3.5,AMD Radeon AMD,0,30500
+729,Acer,AMD,Ryzen 7 Octa Core,16,DDR4,0.256,4.4,NVIDIA GeForce RTX 3060,6,109990
+730,Acer,AMD,Ryzen 5 Hexa Core,16,LPDDR4X,0.512,4.5,AMD Radeon AMD,0,59499
+731,Acer,AMD,Ryzen 5 Quad Core,8,DDR4,0.512,3.7,AMD Radeon AMD,0,37490
+732,Acer,Intel,Celeron Dual Core,4,DDR4,0.128,2.8,Intel Integrated UHD Graphics 600,0,23700
+733,Acer,AMD,Ryzen 3 Dual Core,8,DDR4,0.256,3.5,AMD Radeon AMD,0,31499
+734,Acer,Intel,Core i5,8,DDR3,0.256,3.2,Intel Integrated HD 615,0,68990
+735,Acer,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,61500
+736,Acer,Intel,Core i3,4,DDR4,0.256,4.1,Intel Integrated UHD,0,29000
+737,Acer,Intel,Core i5,16,LPDDR4X,0.512,4.5,NVIDIA GeForce RTX 3050,4,74990
+738,Acer,Intel,Core i5,8,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,48362
+739,Acer,AMD,Athlon Dual Core,8,DDR4,0.256,2.6,AMD Radeon Radeon,0,27800
+740,Acer,AMD,Athlon Dual Core,8,DDR4,0.256,2.6,AMD Radeon Radeon,0,27800
+741,Acer,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Intel Iris Xe Graphics,0,68990
+742,Acer,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,47299
+743,Acer,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD Graphics,0,37550
+744,Acer,AMD,Ryzen 3 Dual Core,4,DDR4,0.256,3.5,AMD Radeon AMD,0,32500
+745,Acer,Intel,Core i5,4,DDR4,0.512,4.2,NVIDIA GeForce MX350,2,47499
+746,Acer,AMD,Ryzen 5 Hexa Core,8,DDR5,0.512,4.55,NVIDIA GeForce RTX 3050,4,74990
+747,Acer,AMD,Ryzen 5 Hexa Core,8,DDR4,0.256,4.0,NVIDIA GeForce GTX 1650,4,57900
+748,Acer,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,47499
+749,Acer,Intel,Core i5,8,DDR4,0.128,3.5,NVIDIA GeForce GTX 1050Ti,4,99990
+750,Acer,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,31000
+751,Acer,AMD,Ryzen 3 Dual Core,4,DDR4,0.512,3.5,Intel Integrated AMD Radeon Graphics,0,35500
+752,Acer,Intel,Core i3,4,DDR4,0.256,4.1,Intel Integrated UHD,0,35800
+753,Acer,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 3060,6,108000
+754,Acer,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,NVIDIA GeForce GTX 1650,4,51000
+755,Acer,Intel,Celeron Dual Core,4,DDR4,0.256,2.8,Intel Integrated UHD Graphics,0,28990
+756,Acer,Intel,Core i7,16,DDR4,0.256,4.7,NVIDIA GeForce MX350,2,78000
+757,Acer,Intel,Core i9,16,DDR5,1.0,5.0,NVIDIA GeForce RTX 3060,6,135000
+758,Acer,Intel,Core i5,8,DDR3,0.256,3.4,Intel Integrated UHD 620,0,55990
+759,Acer,AMD,Ryzen 5 Hexa Core,8,DDR5,1.0,4.5,NVIDIA GeForce RTX 3050,4,79490
+760,Acer,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,42990
+761,Acer,Intel,Core i5,8,LPDDR4X,0.512,4.2,Intel Integrated Iris Xe,0,58900
+762,ASUS,Intel,Core i5,16,DDR5,1.0,4.6,NVIDIA GeForce RTX 3050,6,94990
+763,SAMSUNG,Intel,Core i7,16,LPDDR4X,0.512,5.0,Intel Integrated Iris Xe,0,86990
+764,ASUS,Intel,Core i5,8,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,39990
+765,ASUS,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,33990
+766,ASUS,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,29990
+767,ASUS,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,33990
+768,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,69990
+769,ASUS,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,39990
+770,ASUS,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,27990
+771,ASUS,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,27990
+772,Lenovo,AMD,Athlon Dual Core,8,LPDDR5,0.512,3.5,AMD Radeon 610M Graphics,0,26990
+773,ASUS,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated Integrated,0,36990
+774,ASUS,AMD,Ryzen 9 Octa Core,16,LPDDR5,1.0,4.9,NVIDIA GeForce RTX 3050,4,95990
+775,ASUS,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,50990
+776,ASUS,Intel,Core i5,16,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,43990
+777,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,AMD Radeon AMD,0,49990
+778,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,56990
+779,ASUS,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,50990
+780,MSI,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,45990
+781,ASUS,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,44990
+782,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.5,AMD Radeon AMD,0,72990
+783,ASUS,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon Radeon,0,35990
+784,ASUS,Intel,Celeron Dual Core,8,DDR4,0.256,2.8,Intel Integrated Integrated,0,25990
+785,MSI,Intel,Core i7,16,DDR4,0.256,4.6,NVIDIA GeForce GTX 1650,4,57990
+786,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.7,Intel Integrated Iris Xe,0,82990
+787,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,61990
+788,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,73990
+789,MSI,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,47990
+790,ASUS,Intel,Core i3,16,DDR4,0.512,4.4,Intel Integrated UHD,0,40990
+791,ASUS,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,44990
+792,ASUS,Intel,Core i3,4,DDR4,0.512,3.4,Intel Integrated UHD,0,32490
+793,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe Graphics,0,67990
+794,ASUS,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,39990
+795,MSI,Intel,Core i7,16,DDR4,1.0,4.7,NVIDIA GeForce RTX 4050,6,85990
+796,ASUS,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,49990
+797,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,AMD Radeon AMD,0,49990
+798,MSI,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.5,AMD Radeon AMD,0,35990
+799,HP,AMD,Ryzen 3 Dual Core,8,DDR4,0.512,3.5,AMD Radeon AMD,0,29490
+800,ASUS,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,33990
+801,ASUS,AMD,Ryzen 7 Octa Core,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 3060,6,109990
+802,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,AMD Radeon AMD,0,56990
+803,ASUS,Intel,Core i7,16,DDR4,0.512,4.7,Intel Integrated Iris Xe,0,77990
+804,HP,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,35990
+805,HP,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD Graphics,0,32990
+806,ASUS,Intel,Core i9,16,DDR5,1.0,5.4,NVIDIA GeForce RTX 4050,6,149990
+807,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.5,Intel Integrated Integrated,0,79990
+808,ASUS,AMD,Ryzen 7 Octa Core,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 3060,6,114990
+809,ASUS,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,50990
+810,ASUS,Intel,Core i7,16,DDR5,0.512,4.7,Intel Integrated NVIDIA GeForce RTX 3060,6,143490
+811,ASUS,Intel,Core i9,16,DDR5,1.0,5.6,NVIDIA GeForce RTX 4060,8,179990
+812,ASUS,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,68990
+813,ASUS,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,46990
+814,HP,Intel,Core i5,16,DDR4,1.0,4.4,Intel Integrated Iris Xe,0,69990
+815,Lenovo,Intel,Core i5,16,LPDDR5,0.512,4.7,Intel Integrated Iris Xe,0,71990
+816,ASUS,Intel,Celeron Dual Core,4,DDR4,0.256,2.8,Intel Integrated UHD,0,21990
+817,ASUS,Intel,Core i7,16,LPDDR5,0.512,4.7,Intel Integrated Iris Xe,0,89990
+818,HP,Intel,Core i3,16,DDR4,0.512,4.4,Intel Integrated UHD,0,40990
+819,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon AMD,0,39990
+820,ASUS,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,40990
+821,ASUS,AMD,Ryzen 5 Quad Core,16,LPDDR5,0.512,4.3,AMD Radeon AMD,0,50990
+822,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,1.0,4.4,NVIDIA GeForce RTX 3050,4,74990
+823,ASUS,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,33990
+824,MSI,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,47990
+825,ASUS,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,33990
+826,ASUS,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,51990
+827,Lenovo,AMD,Ryzen 5 Hexa Core,16,LPDDR4X,0.512,4.5,AMD Radeon AMD,0,64990
+828,MSI,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.5,AMD Radeon AMD,0,38990
+829,ASUS,AMD,Ryzen 5 Hexa Core,8,DDR4,0.256,4.0,AMD Radeon AMD,0,52000
+830,ASUS,Intel,Celeron Dual Core,8,DDR4,0.512,2.8,Intel Integrated Integrated,0,28990
+831,ASUS,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,33990
+832,ASUS,Intel,Core i3,8,DDR4,0.512,3.8,Intel Integrated UHD,0,36990
+833,MSI,Intel,Core i7,8,DDR4,0.512,4.6,NVIDIA GeForce RTX 3050,4,68590
+834,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 2050,4,63190
+835,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,1.0,4.2,NVIDIA GeForce RTX 3050,4,66990
+836,ASUS,Intel,Core i3,8,DDR4,0.512,4.4,Intel Integrated UHD,0,44000
+837,Acer,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,61500
+838,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,61990
+839,ASUS,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,49990
+840,ASUS,Intel,Core i3,8,DDR4,0.512,3.4,Intel Integrated UHD,0,35900
+841,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,1.0,4.4,NVIDIA GeForce RTX 3050,4,76990
+842,ASUS,AMD,Ryzen 7 Octa Core,16,LPDDR4X,1.0,4.4,AMD Radeon AMD,0,71990
+843,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,64990
+844,SAMSUNG,Intel,Core i5,16,DDR5,0.512,4.6,Intel Integrated Iris Xe,0,126990
+845,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.5,Intel Integrated Iris Xe,0,89990
+846,ASUS,Intel,Core i9,16,DDR5,1.0,5.6,NVIDIA GeForce RTX 4070,8,209990
+847,MSI,Intel,Core i5,16,DDR5,0.512,4.4,NVIDIA GeForce RTX 3050,6,73990
+848,ASUS,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,57990
+849,ASUS,Intel,Core i5,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,50880
+850,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,80990
+851,ASUS,Intel,Celeron Dual Core,4,DDR4,0.256,2.8,Intel Integrated UHD,0,25990
+852,ASUS,Intel,Core i3,8,DDR4,0.512,3.8,Intel Integrated UHD,0,36990
+853,SAMSUNG,Intel,Core i5,16,DDR5,0.512,4.6,Intel Integrated Iris Xe,0,150990
+854,HP,Intel,Core i5,16,LPDDR4X,0.512,2.4,Intel Integrated Iris Xe,0,88490
+855,ASUS,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 4060,8,109990
+856,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,52990
+857,MSI,Intel,Core i5,8,DDR4,0.256,4.5,NVIDIA GeForce RTX 3050,4,55990
+858,Lenovo,AMD,Ryzen 5 Hexa Core,16,DDR5,0.512,4.5,NVIDIA GeForce RTX 3050,4,62990
+859,ASUS,Intel,Core i9,16,LPDDR5,1.0,5.4,Intel Integrated Iris Xe,0,104990
+860,ASUS,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,40990
+861,ASUS,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,39990
+862,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 4060,8,99990
+863,ASUS,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,49990
+864,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,56990
+865,HP,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,61990
+866,Acer,Intel,Core i5,8,DDR4,0.128,3.5,NVIDIA GeForce GTX 1050Ti,4,99990
+867,ASUS,AMD,Ryzen 7 Octa Core,16,DDR5,1.0,4.7,NVIDIA GeForce RTX RTX 3050,4,88990
+868,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,61990
+869,ASUS,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated Integrated,0,32990
+870,ASUS,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,40990
+871,Lenovo,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,67990
+872,MSI,AMD,Ryzen 7 Octa Core,16,DDR,0.512,4.4,AMD Radeon RX6500M,4,57990
+873,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.7,Intel Integrated Iris Xe,0,82990
+874,ASUS,Intel,Core i3,8,DDR4,0.512,4.5,Intel Integrated Integrated,0,43990
+875,ASUS,Intel,Core i9,32,DDR5,1.0,5.6,NVIDIA GeForce RTX 4090,16,359990
+876,ASUS,Intel,Core i3,8,DDR4,0.512,4.5,Intel Integrated Integrated,0,43990
+877,ASUS,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,63990
+878,ASUS,Intel,Core i5,16,DDR4,0.512,4.6,Intel Integrated Iris Xe,0,61990
+879,ASUS,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 4050,6,89990
+881,ASUS,AMD,Ryzen 9 Octa Core,32,DDR5,1.0,4.4,AMD Radeon 6800S,8,154990
+882,ASUS,Intel,Core i9,32,DDR5,1.0,5.0,NVIDIA GeForce RTX 3080 Ti,16,214990
+883,ASUS,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,41799
+884,ASUS,Intel,Core i5,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 2050,4,82990
+885,ASUS,Intel,Core i5,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 2050,4,79085
+886,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,1.0,4.2,NVIDIA GeForce RTX 3050 Ti,4,87890
+887,ASUS,AMD,Ryzen 5 Quad Core,8,LPDDR5,0.512,4.3,AMD Radeon AMD,0,44990
+888,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.4,Intel Integrated Iris Xe,0,81990
+889,ASUS,Intel,Core i9,16,DDR4,1.0,5.4,NVIDIA GeForce RTX 4060,8,154990
+890,ASUS,AMD,Ryzen Z1 HexaCore,16,LPDDR5,0.512,4.9,AMD Radeon AMD,0,63990
+891,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,70990
+892,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 2050,4,63190
+893,ASUS,Intel,Core i7,32,DDR4,1.0,5.1,NVIDIA GeForce RTX 2080 Super with Max-Q Design,8,179990
+894,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.7,Intel Integrated Iris Xe,0,85126
+895,ASUS,AMD,Ryzen 9 16 Core,32,DDR5,2.0,5.4,NVIDIA GeForce RTX 4090,16,419990
+896,ASUS,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,51990
+897,ASUS,Intel,Celeron Dual Core,8,DDR4,0.512,2.8,Intel Integrated UHD 600,0,30990
+898,ASUS,Intel,Core i5,8,DDR4,0.512,2.4,Intel Integrated Irix Xe,0,62500
+899,ASUS,Intel,Core i7,16,DDR4,1.0,4.7,NVIDIA GeForce RTX 3050,4,87990
+900,ASUS,Intel,Core i3,16,DDR4,0.512,4.1,Intel Integrated UHD,0,36990
+901,ASUS,Intel,Core i5,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 4050,6,119990
+902,ASUS,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,66990
+903,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.7,Intel Integrated Iris Xe,0,82990
+904,ASUS,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4050,6,152990
+905,ASUS,AMD,Ryzen Z1 Octa Core,16,LPDDR5,0.512,5.1,AMD Radeon RDNA 3 AMD,0,67990
+906,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,69990
+907,ASUS,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 3050,4,91990
+908,ASUS,Intel,Core i9,32,DDR5,1.0,5.0,NVIDIA GeForce RTX 3070,8,218990
+909,ASUS,Intel,Core i7,16,LPDDR5,0.512,5.0,Intel Integrated Iris Xe,0,99990
+910,ASUS,Intel,Core i5,8,DDR4,1.0,4.5,NVIDIA GeForce RTX 2050,4,58990
+911,ASUS,Intel,Core i7,16,LPDDR5,0.512,5.0,Intel Integrated Integrated,0,112990
+912,ASUS,AMD,Ryzen 9 Octa Core,16,DDR5,1.0,5.2,NVIDIA GeForce RTX 4050,6,168032
+913,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,64990
+914,ASUS,AMD,Ryzen 9 Octa Core,16,DDR4,1.0,4.6,NVIDIA GeForce RTX 3060,6,109990
+915,ASUS,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,66990
+916,ASUS,Intel,Core i7,16,LPDDR5,0.512,5.0,Intel Integrated Integrated,0,119990
+917,ASUS,Intel,Core i7,8,DDR4,0.256,4.6,NVIDIA GeForce MX150,2,62990
+918,ASUS,Intel,Core i7,16,LPDDR5,0.512,5.0,Intel Integrated Integrated,0,112990
+919,ASUS,Intel,Core i5,16,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,57000
+920,ASUS,AMD,Ryzen 9 Octa Core,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 3070 Ti,8,144990
+921,ASUS,AMD,Ryzen 5 Hexa Core,16,LPDDR4X,1.0,4.5,AMD Radeon AMD,0,77990
+922,ASUS,AMD,Ryzen 3 Dual Core,8,DDR4,0.256,3.5,AMD Radeon integrated,0,34800
+923,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,70990
+924,ASUS,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.5,AMD Radeon AMD,0,47990
+925,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,AMD Radeon AMD,0,64990
+926,ASUS,AMD,Ryzen 9 Octa Core,32,LPDDR4X,1.0,4.8,NVIDIA GeForce GTX 1650,4,154990
+927,ASUS,AMD,Ryzen 9 Octa Core,16,DDR5,1.0,5.2,NVIDIA GeForce RTX 4050,6,164990
+928,ASUS,Intel,Core i7,16,DDR4,1.0,4.7,NVIDIA GeForce RTX 3050,4,87990
+929,ASUS,Intel,Core i3,8,DDR4,0.512,3.0,Intel Integrated Intel UHD,0,40990
+930,ASUS,AMD,Ryzen 9 Octa Core,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 3070 Ti,8,187990
+931,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.0,AMD Radeon AMD,0,58990
+932,ASUS,Intel,Core i5,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 2050,4,82990
+933,ASUS,Intel,Core i5,16,DDR5,1.0,4.6,NVIDIA GeForce RTX 4050,6,144990
+934,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,75990
+935,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.6,Intel Integrated Integrated,0,92990
+936,ASUS,AMD,Ryzen 9 Octa Core,32,DDR5,2.0,4.9,NVIDIA GeForce RTX 3080 Ti,16,304990
+937,ASUS,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 3050,4,95990
+938,ASUS,Intel,Core i5,16,LPDDR5,0.512,4.6,Intel Integrated Integrated,0,104990
+939,ASUS,Intel,Core i5,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 3050,4,96990
+940,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,61990
+941,ASUS,AMD,Ryzen 5 Hexa Core,16,LPDDR5,0.512,4.5,AMD Radeon AMD,0,80490
+942,ASUS,Intel,Core i5,8,DDR4,0.512,4.6,Intel Integrated Integrated,0,57990
+943,ASUS,AMD,Ryzen 7 Octa Core,32,DDR5,2.0,4.7,NVIDIA GeForce RTX 3060,6,179990
+944,ASUS,AMD,Ryzen 7 Octa Core,16,LPDDR5,1.0,4.7,AMD Radeon AMD,0,195490
+945,ASUS,Intel,Core i9,32,DDR5,1.0,5.0,NVIDIA GeForce RTX 3070 Ti,8,192990
+946,ASUS,Intel,Core i5,8,DDR4,0.512,4.6,Intel Integrated UHD,0,57990
+947,ASUS,Intel,Core i3,8,DDR4,0.256,4.1,Intel Integrated UHD,0,34999
+948,ASUS,Intel,Core i3,8,DDR4,0.512,3.8,Intel Integrated UHD,0,39990
+949,ASUS,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.0,AMD Radeon,0,39990
+950,ASUS,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 3050,4,81990
+951,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,52800
+952,ASUS,Intel,Core i9,32,DDR5,1.0,5.6,NVIDIA GeForce RTX 4080,12,284990
+953,ASUS,Intel,Core i3,8,DDR4,0.512,3.8,Intel Integrated UHD,0,36990
+954,ASUS,Intel,Core i9,32,DDR5,4.0,5.0,NVIDIA GeForce RTX 3080 Ti,16,311490
+955,ASUS,Intel,Core i7,16,LPDDR5,1.0,5.0,Intel Integrated Integrated,0,149990
+956,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,AMD Radeon AMD RADEON,0,54990
+957,ASUS,AMD,Ryzen 9 Octa Core,32,DDR5,1.0,5.2,NVIDIA GeForce RTX 4060,8,189990
+958,ASUS,AMD,Ryzen 7 Octa Core,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 3060,6,114990
+959,ASUS,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,34990
+960,ASUS,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,37990
+961,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.2,NVIDIA GeForce RTX 2050,4,61990
+962,ASUS,Intel,Core i7,16,LPDDR4X,0.512,4.7,Intel Integrated Iris Xe Graphics,0,103500
+963,ASUS,AMD,Ryzen 9 Octa Core,32,LPDDR4X,1.0,4.8,NVIDIA GeForce GTX 1650,4,210990
+964,ASUS,AMD,Ryzen 7 Octa Core,16,DDR4,1.0,4.4,NVIDIA GeForce RTX 3060,6,117900
+965,ASUS,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.5,AMD Radeon AMD,0,51990
+966,ASUS,Intel,Core i9,32,DDR5,2.0,5.0,NVIDIA GeForce RTX 3080 Ti,16,269990
+967,MSI,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,45990
+968,MSI,Intel,Core i7,16,DDR4,0.256,4.6,NVIDIA GeForce RTX 3050,4,63990
+969,MSI,Intel,Core i3,8,DDR4,0.512,4.1,Intel Integrated UHD,0,27990
+970,MSI,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,47990
+971,MSI,Intel,Core i5,16,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,38990
+972,MSI,AMD,Ryzen 7 Octa Core,16,DDR,0.512,4.4,AMD Radeon RX6500M,4,57990
+973,MSI,Intel,Core i5,16,DDR4,0.256,4.4,NVIDIA GeForce RTX 3050,4,54990
+974,MSI,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,51990
+975,MSI,Intel,Core i7,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,49990
+976,MSI,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,71990
+977,MSI,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,47990
+978,MSI,Intel,Core i7,16,DDR4,1.0,4.7,NVIDIA GeForce RTX 4050,6,85990
+979,MSI,Intel,Core i5,8,DDR4,0.512,4.5,Intel Integrated Iris Xe,0,35990
+980,MSI,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,49990
+981,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4060,8,113990
+982,MSI,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,45990
+983,MSI,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.5,AMD Radeon AMD,0,35990
+984,MSI,Intel,Core i7,16,DDR4,0.512,4.6,NVIDIA GeForce RTX 2050,4,61990
+985,MSI,Intel,Core i7,16,DDR4,0.256,4.6,NVIDIA GeForce GTX 1650,4,57990
+986,MSI,Intel,Core i3,8,DDR4,0.256,4.4,Intel Integrated UHD,0,33990
+987,ASUS,Intel,Core i5,16,DDR5,1.0,4.6,NVIDIA GeForce RTX 3050,6,94990
+988,MSI,Intel,Core i5,16,DDR4,0.256,4.4,NVIDIA GeForce RTX 4060,8,86990
+989,MSI,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,61990
+990,MSI,Intel,Core i5,32,DDR5,1.0,4.7,NVIDIA GeForce RTX 3050,6,85990
+991,MSI,Intel,Core i7,16,LPDDR5,1.0,5.0,Intel Integrated Iris Xe,0,92990
+992,MSI,Intel,Core i7,16,LPDDR5,1.0,5.0,Intel Integrated Iris Xe,0,119990
+993,MSI,Intel,Core i5,16,DDR4,0.256,4.4,NVIDIA GeForce RTX 4050,6,74990
+994,MSI,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,53990
+995,MSI,Intel,Core i7,8,DDR4,0.512,4.6,NVIDIA GeForce GTX 1650 MAX Q,4,54990
+996,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 4070,8,129990
+997,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4050,6,101990
+998,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4060,8,113990
+999,MSI,Intel,Core i3,16,DDR4,0.512,4.4,Intel Integrated UHD,0,36990
+1000,MSI,AMD,Ryzen 5 Hexa Core,16,DDR4,0.512,4.5,AMD Radeon AMD,0,38990
+1001,MSI,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,45990
+1002,MSI,Intel,Core i7,16,DDR5,1.0,5.0,NVIDIA GeForce RTX 4060,8,125990
+1003,ASUS,AMD,Ryzen 7 Octa Core,16,LPDDR4X,1.0,4.4,AMD Radeon AMD,0,71990
+1004,MSI,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 4050,6,82990
+1005,MSI,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,47990
+1006,Lenovo,Intel,Core i5,16,DDR4,0.512,4.2,Intel Integrated Iris Xe,0,44990
+1007,Lenovo,Intel,Core i7,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,59990
+1008,MSI,Intel,Core i7,16,LPDDR5,1.0,5.0,Intel Integrated Iris Xe,0,94990
+1009,MSI,Intel,Core i5,8,DDR5,0.512,4.4,NVIDIA GeForce RTX 3050,6,69990
+1010,MSI,Intel,Core i7,16,DDR4,1.0,4.7,NVIDIA GeForce RTX 3060,6,112490
+1011,MSI,Intel,Core i7,8,DDR4,0.512,4.6,NVIDIA GeForce RTX 3050,4,68590
+1012,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 4050,6,92990
+1013,MSI,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce GTX 1650,4,47990
+1014,ASUS,Intel,Core i5,8,DDR4,0.512,4.4,NVIDIA GeForce RTX 2050,4,50990
+1015,ASUS,AMD,Ryzen 3 Quad Core,8,LPDDR5,0.512,4.1,AMD Radeon AMD,0,40990
+1016,MSI,Intel,Core i9,32,DDR5,2.0,5.6,NVIDIA GeForce RTX 4090,16,344990
+1017,MSI,Intel,Core i7,16,DDR5,0.512,4.7,NVIDIA GeForce RTX 3050,6,85990
+1018,MSI,Intel,Core i7,16,DDR5,1.0,5.0,NVIDIA GeForce RTX 4070,8,166490
+1019,MSI,Intel,Core i5,16,DDR4,0.512,4.6,Intel Integrated Iris Xe,0,54990
+1020,HP,Intel,Core i7,32,DDR4,1.0,5.0,Arc A370M A370M,4,184490
+1021,Lenovo,Intel,Core i3,8,LPDDR5,0.512,4.5,Intel Integrated UHD,0,44990
+1022,MSI,Intel,Core i7,16,LPDDR5,1.0,5.0,NVIDIA GeForce RTX 2050,4,119990
+1023,MSI,Intel,Core i5,16,DDR4,0.256,4.4,NVIDIA GeForce RTX 2050,4,52990
+1024,MSI,AMD,Ryzen 7 Octa Core,8,DDR,0.512,4.4,AMD Radeon RX6500M,4,57990
+1025,Lenovo,Intel,Core i5,16,LPDDR5,0.512,4.7,Intel Integrated Iris Xe,0,71990
+1026,MSI,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050 Ti,4,76990
+1027,MSI,Intel,Core i7,16,DDR4,0.512,4.7,NVIDIA GeForce RTX 4060,8,94990
+1028,MSI,Intel,Core i9,16,DDR5,1.0,5.4,NVIDIA GeForce RTX 4070,8,179990
+1029,MSI,Intel,Core i9,64,DDR5,2.0,5.6,NVIDIA GeForce RTX 4080,12,436490
+1030,HP,Intel,Core i7,16,LPDDR4X,1.0,4.7,Intel Integrated Iris Xe,0,114490
+1031,HP,Intel,Core i5,16,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,54990
+1032,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4050,6,107990
+1033,MSI,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.5,AMD Radeon AMD,0,35990
+1034,Acer,Intel,Core i7,16,DDR5,0.512,5.0,NVIDIA GeForce RTX 4050,6,104990
+1035,ASUS,Intel,Core i3,16,DDR4,0.512,4.4,Intel Integrated UHD,0,40990
+1036,MSI,Intel,Core i5,16,DDR4,0.512,4.6,Intel Integrated Iris Xe,0,53990
+1037,MSI,Intel,Core i7,16,DDR5,2.0,5.0,NVIDIA GeForce RTX 4070,8,269990
+1038,MSI,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,68990
+1039,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4060,8,113990
+1040,Lenovo,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,65990
+1041,ASUS,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce RTX 2050,4,63190
+1042,MSI,Intel,Core i7,32,DDR4,1.0,5.1,NVIDIA GeForce RTX 2070 Max-Q,8,214990
+1043,MSI,Intel,Core i7,32,DDR5,1.0,5.0,NVIDIA GeForce RTX 4060,8,174490
+1044,Acer,Intel,Core i7,16,DDR5,1.0,5.0,NVIDIA GeForce RTX 4050,6,109990
+1045,DELL,Intel,Core i5,16,DDR5,0.512,4.5,NVIDIA GeForce RTX 3050,4,72990
+1046,MSI,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,4.75,AMD Radeon RX6550M,4,79990
+1047,MSI,Intel,Core i7,16,DDR4,1.0,4.6,NVIDIA GeForce RTX 3070,8,164990
+1048,MSI,Intel,Core i9,32,DDR5,1.0,5.6,NVIDIA GeForce RTX 4080,12,284990
+1049,MSI,Intel,Core i7,16,LPDDR5,1.0,5.0,Intel Integrated Iris Xe,0,99990
+1050,Lenovo,Intel,Core i5,8,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,47990
+1051,ASUS,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce RTX 3050,4,61990
+1052,MSI,Intel,Core i7,16,DDR4,0.512,4.9,NVIDIA GeForce MX330,2,92990
+1053,MSI,Intel,Core i7,8,DDR5,0.512,4.7,NVIDIA GeForce RTX 3050,6,79990
+1054,HP,Intel,Core i5,16,DDR4,0.512,4.6,Intel Integrated Integrated,0,64990
+1055,MSI,Intel,Core i7,16,DDR5,0.512,4.9,NVIDIA GeForce RTX 2050,4,94990
+1056,MSI,Intel,Core i7,16,DDR4,0.128,3.8,NVIDIA GeForce GTX 1050,4,112990
+1057,MSI,Intel,Core i5,16,DDR4,0.256,4.4,NVIDIA GeForce RTX 2050,4,61990
+1058,Lenovo,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,53415
+1059,Lenovo,AMD,Ryzen 7 Octa Core,16,DDR5,0.512,5.1,NVIDIA GeForce RTX 4050,6,97990
+1060,MSI,Intel,Core i7,16,DDR4,1.0,4.8,NVIDIA GeForce GTX 1650 Ti Max-Q,4,130490
+1061,MSI,Intel,Core i5,16,DDR4,0.512,4.5,NVIDIA GeForce GTX 1650,4,53990
+1062,HP,Intel,Core i7,16,DDR4,0.512,5.0,NVIDIA GeForce RTX 4050,6,104990
+1063,Lenovo,Intel,Core i5,16,DDR5,0.512,4.4,NVIDIA GeForce RTX 4060,8,94990
+1064,MSI,Intel,Core i3,8,DDR4,0.512,4.5,Intel Integrated UHD,0,41990
+1065,MSI,Intel,Core i9,32,DDR5,1.0,5.4,NVIDIA GeForce RTX 4060,8,249990
+1066,MSI,Intel,Core i7,32,DDR5,1.0,5.0,NVIDIA GeForce RTX 4070,8,227990
+1067,MSI,Intel,Core i7,16,DDR5,1.0,4.7,NVIDIA GeForce RTX 3070 Ti,8,195990
+1068,ASUS,Intel,Core i5,8,DDR4,0.512,4.1,NVIDIA GeForce GTX 1650,4,56999
+1069,HP,AMD,Ryzen 7 Octa Core,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 3050,4,74990
+1070,MSI,Intel,Core i7,16,DDR5,1.0,4.9,NVIDIA GeForce RTX 4060,8,171990
+1071,MSI,Intel,Core i7,8,DDR4,0.512,5.0,Intel Integrated Iris Xe,0,64990
+1072,HP,AMD,Ryzen 5 Hexa Core,8,DDR5,0.512,4.55,NVIDIA GeForce RTX 2050,4,55990
+1073,HP,AMD,Ryzen 5 Hexa Core,8,DDR4,0.512,4.2,NVIDIA GeForce RTX 3050,4,59990
+1074,MSI,Intel,Core i5,8,DDR4,0.512,4.6,Intel Integrated Iris Xe,0,53990
+1075,MSI,Intel,Core i7,8,DDR4,0.512,4.4,Intel Integrated Iris Xe,0,60990
+1076,MSI,AMD,Ryzen 5 Hexa Core,8,DDR5,0.512,4.55,AMD Radeon RX6550M,4,59990
+1077,MSI,Intel,Core i7,16,DDR4,0.512,4.1,NVIDIA GeForce RTX 2060,6,146990
+1078,MSI,Intel,Core i7,32,DDR5,1.0,5.0,NVIDIA GeForce RTX 4070,8,234990
+1079,MSI,Intel,Core i7,16,DDR4,0.512,4.1,NVIDIA GeForce GTX 1060,6,149990
+1080,MSI,Intel,Core i7,16,DDR5,1.0,5.0,NVIDIA GeForce RTX 4060,8,124990
+1081,MSI,Intel,Core i5,16,DDR5,1.0,4.4,NVIDIA GeForce RTX 3050,6,79990
+1082,MSI,Intel,Core i9,64,DDR5,2.0,5.0,NVIDIA GeForce RTX 3080Ti,16,440990
+1083,MSI,Intel,Core i7,16,DDR4,0.256,5.0,NVIDIA GeForce RTX 2060,6,65990
+1084,MSI,Intel,Core i7,16,DDR5,1.0,5.0,NVIDIA GeForce RTX 4070,8,184990
+1085,MSI,Intel,Core i7,16,DDR4,1.0,4.6,NVIDIA GeForce RTX 3070,8,132990
+1086,MSI,Intel,Core i5,16,DDR4,0.512,4.4,NVIDIA GeForce RTX 4050,6,76990
+1087,MSI,Intel,Core i7,16,DDR4,1.0,4.8,NVIDIA GeForce RTX 3060,6,129990
+1088,MSI,Intel,Core i7,16,DDR4,0.256,5.0,NVIDIA Quadro T1000,4,145490
+1089,MSI,Intel,Core i9,16,DDR4,1.0,5.0,NVIDIA GeForce RTX 3060,6,129990
